@@ -4,6 +4,8 @@ public class ArrayCreateByVaueListExample1 {
 	public static void main(String[] args) {
 		//배열 변수 선언과 배열 생성
 		String[] season = { "Spring", "Summer", "Fall", "Winter" };
+		//String[] season;
+		//season = new String[]{"Spring", "Summer", "Fall", "Winter" };
 		
 		//배열의 항목값 읽기
 		System.out.println("season[0] : " + season[0]);
