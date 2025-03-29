@@ -33,7 +33,6 @@ public class ArrayLengthExample {
 
 		        // Scanner 객체 생성
 		        Scanner scanner = new Scanner(System.in);
-
 		        System.out.println("총합과 평균을 구할 정수 3가지를 입력하세요");
 
 		        // 사용자 입력을 배열에 저장
